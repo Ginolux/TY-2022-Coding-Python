@@ -1,3 +1,3 @@
-# TY-2022-Coding-Python
+# TY-2022-Python-Coding
 
 How to code in PYTHON
